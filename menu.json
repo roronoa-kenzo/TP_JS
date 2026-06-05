@@ -1,0 +1,8 @@
+[
+  { "id": 1, "name": "Pizza", "price": 10, "image": "pizza.webp", "description": "Pizza maison garnie au fromage" },
+  { "id": 2, "name": "Tacos", "price": 8, "image": "tacos.webp", "description": "Tacos épicés au poulet" },
+  { "id": 3, "name": "Salade", "price": 7.5, "image": "salade.webp", "description": "Salade fraîche du jour" },
+  { "id": 4, "name": "Bouzelouf", "price": 20, "image": "bouzelouf.webp", "description": "Un plat à prendre 3 ans ferme" },
+  { "id": 5, "name": "Tasty Crousty", "price": 13, "image": "tastycrousty.webp", "description": "6 7 Tasty Crousty RNBoi" },
+  { "id": 6, "name": "Cauet Burger", "price": 7.5, "image": "burger.jpg", "description": "Le El famoso Burger de Cauet gouté et approuver par lui meme" }
+]
